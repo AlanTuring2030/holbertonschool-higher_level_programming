@@ -1,1 +1,1 @@
-Learning the basics of Python
+My first programs in Python
