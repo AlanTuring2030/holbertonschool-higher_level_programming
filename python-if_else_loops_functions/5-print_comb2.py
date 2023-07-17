@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# 0:2d / print 2-digit numbers
+# 0:2d / shows 2-digit numbers
 numbers = "{:02d}, "
 for number in range(100):
     if number != 99:
